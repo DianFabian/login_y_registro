@@ -1,6 +1,6 @@
 
 .navbar{
-    background-color: #343a40;
+    background-color: #f6f6f7;
     padding: 10px 20px;
     display: flex;
     justify-content: space-between;
@@ -34,7 +34,7 @@
 }
 
 .footer{
-    background-color: #fbfbfb;
+    background-color: #ebc6df;
     padding: 20px 0;
     text-align: center;
     position: fixed;
